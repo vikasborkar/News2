@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="app">
+        <State />
+      </entry>
+      <entry key="homeScreen()">
+        <State />
+      </entry>
+      <entry key="parseArticles()">
+        <State />
+      </entry>
+      <entry key="searchArticles()">
+        <State />
+      </entry>
+      <entry key="sortArticlesByDate()">
+        <State />
+      </entry>
+      <entry key="testFrag()">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
